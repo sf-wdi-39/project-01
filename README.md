@@ -58,7 +58,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 * **Tuesday July 25 by 12pm** - Present your app plan to your assigned instructor. Before you begin work on your project, the [planning deliverables](./planning.md) must be checked off with an instructor!
 * **Weekend** - Feature Freeze! Deploy your code to Heroku, and start polishing existing features. Finalize your README.md and prepare for presentations.
-* **Monday, July 31 @ 9:15am** - Project due and presentations!
+* **Monday, July 31 @ 10:30am** - Project due and presentations!
 
 ## WHAT WE ARE LOOKING FOR
 
@@ -84,20 +84,19 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
 * A link to your website **hosted on Heroku**
 * A link to your **source code on GitHub**
 * A `README.md` file that serves as your **project documentation** (this is important!)
-* A **brief presentation**, in the company of friends, illustrating:
-    - Triumphs
-    - Challenges
-    - Words of Wisdom
-    - And _3_ lines(!) of code you want to share with your classmates, copied into a seperate document.
+* A **brief presentation**, in the company of friends following the guidelines below. 
 
 ## Presentation guidelines
 
-Each member of your group should speak for in equal amounts in presenting the following information for 8-10 minutes:
+Presentations will be at 10:30am on Monday July 31st. Each member of your group should speak for in equal amounts in presenting the following information for 8-10 minutes:
 
 * Who is this product for?
 * Demo of the site.
-* What was your greatest technical challenge?
-* From each member of your pair, what 3-20 lines of code were most interesting and exciting to you? Why? What does this code do? Explaining your code is a critical piece of the interview process, so practice for this part!
+* What was your greatest technical challenge? Triumph?
+* From each member of your pair, what 3-15 lines of code were most interesting and exciting to you? Why? What does this code do? Explaining your code is a critical piece of the interview process, so practice for this part!
+* Any words of wisdom you'd like to share
+
+Please rehearse and prepare for your presentation!
 
 ## Presentation Tips
 * Please zoom your browser window to 150%.
