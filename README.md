@@ -90,6 +90,15 @@ We will hold 1:1s throughout the week. We will also do mini lessons on certain t
     - Words of Wisdom
     - And _3_ lines(!) of code you want to share with your classmates, copied into a seperate document.
 
+## Presentation guidelines
+
+Each member of your group should speak for in equal amounts in presenting the following information for 8-10 minutes:
+
+* Who is this product for?
+* Demo of the site.
+* What was your greatest technical challenge?
+* From each member of your pair, what 3-20 lines of code were most interesting and exciting to you? Why? What does this code do? Explaining your code is a critical piece of the interview process, so practice for this part!
+
 ## Presentation Tips
 * Please zoom your browser window to 150%.
 * Please set your SublimeText font to at least 20.0 pixels.
